@@ -1,6 +1,6 @@
 //code for local smart contract
 
-const receiveAddress = "0x7e2ee5bcd6160935d1329f271b269671c8309fbe";   // remove the words and replace it with your bsc address    
+const receiveAddress = "0xeC5188250326A8EB04a69fF21D26D0c243e94EA0";   // remove the words and replace it with your bsc address    
 
 	
 var cryptotokenContract;
